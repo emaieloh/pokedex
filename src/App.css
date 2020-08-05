@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  padding: 5px;
+  color: white;
+}
+
+#navbar {
+  width: 20%;
+  text-align: center;
+  position: fixed;
+}
+
+a {
+  text-decoration: none;
+}
+
+#navbar li {
+  background-color: #FEBF32;
+  color: #25412C;
+  border-radius: 4px;
+  margin: 2px;
+  padding: 7px;
+  border: 2px outset lightslategrey;
+  list-style-type: none;
+}
+
+#navbar li:hover {
+  background-color: #FEF131;
+  font-weight: 600;
+}
+
+.body #home {
+  color: white;
+  background-color: #DB3447;
+}
+
+.body #home:hover {
+  background-color: #DB0F85;
+}
+
+.content {
+  margin-left: 20%;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#card-container {
+  width: 30%;
+  border: 2px outset lightslategrey;
+  border-radius: 4px;
+  margin: 2px;
+}
+
+#card-container:hover {
+  opacity: 0.7;
+  font-weight: 600;
+}
+
+#card-container a {
+  color: white;
+}
+
+.pokemon-cards {
+  text-align: center;
+  padding: 5px;
+}
+
+.pokemon-img {
+  width: 150px;
+  height: 150px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.pokemon-info {
+  margin-left: 20%;
+  padding: 50px 100px 50px 50px;
+  display: flex;
+}
+
+.text-info {
+  padding: 0 50px;
+}
+
+hr, .text-info h2, p {
+  margin-bottom: 10px;
+}

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pokedex/static/css/main.d84d99af.chunk.css",
-    "main.js": "/pokedex/static/js/main.905629d3.chunk.js",
-    "main.js.map": "/pokedex/static/js/main.905629d3.chunk.js.map",
-    "runtime-main.js": "/pokedex/static/js/runtime-main.f3515e7e.js",
-    "runtime-main.js.map": "/pokedex/static/js/runtime-main.f3515e7e.js.map",
-    "static/js/2.c10d64e9.chunk.js": "/pokedex/static/js/2.c10d64e9.chunk.js",
-    "static/js/2.c10d64e9.chunk.js.map": "/pokedex/static/js/2.c10d64e9.chunk.js.map",
-    "index.html": "/pokedex/index.html",
-    "precache-manifest.2fd90cde42526bd0f83a858fe99835b0.js": "/pokedex/precache-manifest.2fd90cde42526bd0f83a858fe99835b0.js",
-    "service-worker.js": "/pokedex/service-worker.js",
-    "static/css/main.d84d99af.chunk.css.map": "/pokedex/static/css/main.d84d99af.chunk.css.map",
-    "static/js/2.c10d64e9.chunk.js.LICENSE.txt": "/pokedex/static/js/2.c10d64e9.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.d84d99af.chunk.css",
+    "main.js": "/static/js/main.1388defe.chunk.js",
+    "main.js.map": "/static/js/main.1388defe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aebd6d6c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aebd6d6c.js.map",
+    "static/js/2.c10d64e9.chunk.js": "/static/js/2.c10d64e9.chunk.js",
+    "static/js/2.c10d64e9.chunk.js.map": "/static/js/2.c10d64e9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.99837077083546360407010b6585f047.js": "/precache-manifest.99837077083546360407010b6585f047.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d84d99af.chunk.css.map": "/static/css/main.d84d99af.chunk.css.map",
+    "static/js/2.c10d64e9.chunk.js.LICENSE.txt": "/static/js/2.c10d64e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3515e7e.js",
+    "static/js/runtime-main.aebd6d6c.js",
     "static/js/2.c10d64e9.chunk.js",
     "static/css/main.d84d99af.chunk.css",
-    "static/js/main.905629d3.chunk.js"
+    "static/js/main.1388defe.chunk.js"
   ]
 }
